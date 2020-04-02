@@ -21,4 +21,4 @@ end
 attendee = assign_rooms(attendee)
   assign_rooms(attendee)
 end
-
+end
