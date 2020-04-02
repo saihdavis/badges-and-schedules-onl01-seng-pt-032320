@@ -4,6 +4,6 @@ end
 
 def batch_badge_creator(attendees)
   attendees.collect do |attendee| 
-    badge_maker(attendees)
+    badge_maker(attendee)
 end
 end
