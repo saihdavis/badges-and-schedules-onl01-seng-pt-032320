@@ -18,7 +18,4 @@ def printer(attendee)
 attendee = batch_badge_creator(attendee)
     batch_badge_creator(attendee)
 end
-attendee = assign_rooms(attendee)
-  assign_rooms(attendee)
-end
 end
