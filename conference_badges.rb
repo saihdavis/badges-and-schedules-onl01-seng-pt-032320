@@ -13,6 +13,10 @@ def assign_rooms(attendees)
     "Hello, #{attendee}! You'll be assigned to room #{index + 1}!"
 end
 end
+
 def printer(attendee)
   batch_badge_creator(attendees)
-  
+    puts attendees
+end
+end
+
