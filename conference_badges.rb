@@ -22,3 +22,5 @@ end
 
 assign_rooms(attendees)
   puts attendees
+end
+end
